@@ -1,0 +1,3 @@
+/home/abay/CVFinalProject/CMakeFiles/rebuild_cache.dir
+/home/abay/CVFinalProject/CMakeFiles/edit_cache.dir
+/home/abay/CVFinalProject/CMakeFiles/main.dir
